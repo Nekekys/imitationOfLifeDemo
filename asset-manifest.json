@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imitationOfLifeDemo/static/css/main.39448d11.css",
+    "main.js": "/imitationOfLifeDemo/static/js/main.9ab117f7.js",
+    "index.html": "/imitationOfLifeDemo/index.html",
+    "main.39448d11.css.map": "/imitationOfLifeDemo/static/css/main.39448d11.css.map",
+    "main.9ab117f7.js.map": "/imitationOfLifeDemo/static/js/main.9ab117f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39448d11.css",
+    "static/js/main.9ab117f7.js"
+  ]
+}
